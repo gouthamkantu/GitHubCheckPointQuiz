@@ -1,7 +1,7 @@
 public class GitTest{
 	private String sentence;
 
-	public GitTest(String sentence){
+	public GitTest(){
 		this.sentence = "This is a GitHub test";
 		}
 	public String toString(){
