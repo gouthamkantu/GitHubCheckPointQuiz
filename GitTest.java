@@ -1,3 +1,4 @@
+//Kantu
 public class GitTest{
 	private String sentence;
 
