@@ -10,4 +10,8 @@ public class GitTest{
 			return "This is my GitHub test";
 			}
 
+			pubilc void setSentence(String newSentence){
+				sentence = newSentence;
+				}
+
 }
